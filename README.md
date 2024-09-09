@@ -56,6 +56,18 @@
 ---
 <!-- ---------------------------------------------------------------------- -->
 
+<!-- EXEMPLO DE LAYOUT: -->
+## Diagramas
+
+Diagrama de Classe
+![Diagrama](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/db_diagrama_de_classes.jpg)<br>
+
+Diagrama Caso de Uso
+![Diagrama](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/diagrama%20de%20casos%20de%20uso.png)<br>
+
+---
+<!-- ---------------------------------------------------------------------- -->
+
 <!-- MODELO DE TECNOLOGIAS -->
 ## 🛠 Tecnologias
 
