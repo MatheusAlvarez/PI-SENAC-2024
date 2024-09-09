@@ -18,6 +18,8 @@
 
 - Protótipo do projeto integrador (SENAC)
 
+- Link do Protótipo: [Figma SENAE](https://www.figma.com/design/dHQvQTkmRjeWIHb87NFTDF/Untitled?node-id=0-1&t=GAfjvH0BCGAvi1z2-1)
+
 ---
 
 <!-- ---------------------------------------------------------------------- -->
