@@ -7,20 +7,16 @@
 
 <!-- MODELO MENU DE NAVEGAÇÃO -->
 <p align="center">
- <a href="#-Descrição-do-entregável">Descrição do Entregável</a> •
  <a href="#-sobre-o-projeto">Sobre</a> •
  <a href="#-layout">Layout</a> • 
  <a href="#-tecnologias">Tecnologias</a> • 
- <a href="#user-content--licença">Licença</a>
 </p>
 
 <!-- ---------------------------------------------------------------------- -->
 
 ## 📄 Descrição do entregável
 
-- Widget (Pasta que armazena apenas o widget)
-
-- ExternalPage (Widget em uma página externa)
+- Protótipo do projeto integrador (SENAC)
 
 ---
 
@@ -63,16 +59,9 @@ O desafio proposto para este projeto era a criação {EXPLICAR}. Neste projeto, 
 <!-- MODELO DE TECNOLOGIAS -->
 ## 🛠 Tecnologias
 
-As seguintes ferramentas foram usadas na construção do projeto:
+A seguinte ferramenta foi utilizada na construção do protótipo:
 
-#### **Front-End**  ([ReactJS](https://reactjs.org/)) 
-
--   **[React Router Dom](https://github.com/ReactTraining/react-router/tree/master/packages/react-router-dom)**
--   **[Styled-Component](https://styled-components.com/docs)**
-
-#### **Prototipação** ([Figma](https://www.figma.com/))
-
-- **[Minha Prototipação](https://www.figma.com/file/J1zv4Q8hCFhxhuZE5XINxu/Prototipa%C3%A7%C3%A3o-desafio-Digitalk?t=9EYQVYnf9XIZWWZr-1)**
+-   **[Figma](https://help.figma.com/hc/en-us)**
 
 ---
 
