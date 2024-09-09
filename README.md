@@ -37,18 +37,18 @@
 
 
 ### Administrador
-![Web1](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/02.png)<br>
+![Web1](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/02_.png)<br>
 ![Web1](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/02_02.png)<br>
 
 ### Fornecedor
-![Web1](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/03.png)<br>
+![Web1](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/03_.png)<br>
 
 ### Professor
-![Web1](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/04.png)<br>
+![Web1](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/04_.png)<br>
 ![Web1](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/02_02.png)<br>
 
 ### Aluno
-![Web1](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/05.png)<br>
+![Web1](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/05_.png)<br>
 ![Web1](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/02_02.png)<br>
 
 ---
