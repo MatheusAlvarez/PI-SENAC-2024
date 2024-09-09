@@ -83,7 +83,5 @@ A seguinte ferramenta foi utilizada na construção do protótipo:
 <!-- MODELO DE LICENÇA -->
 ## 📝 Licença
 
-Este projeto esta sobe a licença [MIT](./LICENSE).
-
-Feito por Matheus Maia Alvarez👋🏽 [Entre em contato!](https://br.linkedin.com/in/matheus-maia-alvarez-)
+Este projeto esta sobe a licença [Mozilla](./LICENSE).
 
