@@ -24,9 +24,9 @@
 
 ## 💻 Sobre o projeto
 
-{Nome do repositório} é um projeto criado para o processo seletivo da {Nome da Empresa}.
+PI-SENAC-2024 é um projeto criado para o a matéria (PI) da faculdade
 
-O desafio proposto para este projeto era a criação {EXPLICAR}. Neste projeto, teríamos {EXPLICAR}
+O desafio proposto para este projeto era a criação de um protótipo.
 
 ---
 <!-- ---------------------------------------------------------------------- -->
