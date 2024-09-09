@@ -38,18 +38,24 @@ O desafio proposto para este projeto era a criação {EXPLICAR}. Neste projeto, 
 <!-- EXEMPLO DE LAYOUT: -->
 ## 🎨 Layout
 
-### Widget
+### Home Page
+![Web01](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/01.png)<br>
 
-<!-- AQUI VOCÊ PASSA O CAMINHO DA IMAGEM -->
-![Mobile1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/mobile01.png)<br>
-![Mobile2](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/mobile02.png)<br>
-![Mobile3](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/mobile03.png)
 
-### Widget em uma página externa
+### Administrador
+![Web1](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/02.png)<br>
+![Web1](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/02_02.png)<br>
 
-![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk01.png)
-![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk02.png)
-![Web1](https://github.com/MatheusAlvarez/ChatBot-Digitalk/blob/master/assets/desk03.png)
+### Fornecedor
+![Web1](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/03.png)<br>
+
+### Professor
+![Web1](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/04.png)<br>
+![Web1](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/02_02.png)<br>
+
+### Aluno
+![Web1](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/05.png)<br>
+![Web1](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/02_02.png)<br>
 
 ---
 <!-- ---------------------------------------------------------------------- -->
