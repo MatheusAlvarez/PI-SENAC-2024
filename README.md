@@ -78,7 +78,7 @@ A seguinte ferramenta foi utilizada na construção do protótipo:
 ---
 
 <!-- ---------------------------------------------------------------------- -->
-
+<!-- ------------------------------------- -->
 <!-- MODELO DE COMO CONTRIBUIR PARA O PROJETO -->
 ## 💪 Como contribuir para o projeto
 
