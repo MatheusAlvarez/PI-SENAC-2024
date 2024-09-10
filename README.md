@@ -26,7 +26,7 @@
 
 ## 💻 Sobre o projeto
 
-**PI-SENAC-2024** é um projeto criado para a matéria de Projeto Integrador (PI) da faculdade. O objetivo deste projeto é desenvolver um sistema para gerenciar cadastros de diferentes tipos de usuários, como Pessoa Física, Pessoa Jurídica, Professores, Fornecedores e Alunos. O sistema foi modelado com base em diagramas de casos de uso e prototipado utilizando **Figma**.
+**PI-SENAC-2024** é um projeto criado para a matéria de Projeto Integrador (PI) da faculdade. O objetivo deste projeto é desenvolver um sistema para gerenciar cadastros de diferentes tipos de usuários, como Pessoa Física, Pessoa Jurídica, Professores, Fornecedores e Alunos. O sistema foi modelado com base em diagramas de casos de uso e prototipado utilizando o **Figma**.
 
 ---
 <!-- ---------------------------------------------------------------------- -->
