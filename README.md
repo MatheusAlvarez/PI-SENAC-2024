@@ -38,18 +38,18 @@
 ![Web01](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/01.png)<br>
 
 
-### Administrador
+### 👔 Administrador
 ![Web1](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/02_.png)<br>
 ![Web1](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/02_02.png)<br>
 
-### Fornecedor
+### 🚚 Fornecedor
 ![Web1](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/03_.png)<br>
 
-### Professor
+### 🎓 Professor
 ![Web1](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/04_.png)<br>
 ![Web1](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/02_02.png)<br>
 
-### Aluno
+### 🎒 Aluno
 ![Web1](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/05_.png)<br>
 ![Web1](https://github.com/MatheusAlvarez/PI-SENAC-2024/blob/main/_assets/02_02.png)<br>
 
@@ -82,10 +82,10 @@ A seguinte ferramenta foi utilizada na construção do protótipo:
 <!-- MODELO DE COMO CONTRIBUIR PARA O PROJETO -->
 ## 💪 Como contribuir para o projeto
 
-1. Faça um **fork** do projeto.
-2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
-3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`
-4. Envie as suas alterações: `git push origin my-feature`
+1. Faça um **fork** do projeto;
+2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`;
+3. Salve as alterações e crie uma mensagem de commit contando o que você fez: `git commit -m "feature: My new feature"`;
+4. Envie as suas alterações: `git push origin my-feature`.
 > Caso tenha alguma dúvida confira este [guia de como contribuir no GitHub](./CONTRIBUTING.md)
 
 ---
